@@ -1,0 +1,40 @@
+.navbar {
+    border-bottom: 1px solid #eee;
+}
+.alert-success {
+    color: white;
+    background-color: #28a745;
+    border-color: #28a745;
+}
+.alert-danger {
+    color: white;
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+.alltabstable {
+    font-size: 12px !important;
+}
+.clickable-table-row-a{
+    display: block;
+    padding: 10px 12px;
+    color: #212529;
+}
+.clickable-table-row-a:hover {
+    text-decoration: none;
+    color: #212529;
+}
+.department-table-row td {
+    padding: 0 !important;
+    vertical-align: unset !important;
+    white-space: nowrap;
+}
+.department-table-row {
+    transition: background-color 0.2s ease;
+}
+/*.department-table-row:hover {*/
+/*    background-color: #c8e2fd;*/
+/*}*/
+.form-btn {
+    display: inline-flex;
+}
